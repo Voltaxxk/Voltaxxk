@@ -35,9 +35,10 @@ Hi! I'm Alfredo Garzón, a software engineer from the University of Guayaquil, E
 ## My Skills Include
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS%203-1572B6?style=for-the-badge&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/CSS%203-1572B6?style=for-the-badge&logo=css&logoColor=white">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
 <h4> Run time </h4>
@@ -72,6 +73,29 @@ Hi! I'm Alfredo Garzón, a software engineer from the University of Guayaquil, E
 <span>
    <img alt="Static Badge" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white">
 </span>
+
+<h4> Databases </h4>
+<span>
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Mongo%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Maria%20DB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</span>
+
+<h4> IDE </h4>
+<span>
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
+
+<h4> Other Tools and Technologies </h4>
+<span>
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Mongose-%23880000?style=for-the-badge&logo=mongoose&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/TypeORM-%23FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white">
+</span>
+
 
 
 <!--Header Name GIF or Animation-->
