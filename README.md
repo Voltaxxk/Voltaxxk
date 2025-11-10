@@ -3,9 +3,9 @@
    <div align="center">
       <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=header&textBg=false />
       <div>
-         <img src="https://media.giphy.com/media/hvRJCLFzcasrR7z/gip4iahy.gif" width="28"/>
          <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=700&lines=Heyyy!+I'm+Alfredo+Garzón;Welcome+to+my+profile!" alt="Title"/>
       </div>   
+         <img src="https://media.giphy.com/media/hvRJCLFzcasrR7z/gip4iahy.gif" width="28"/>
    </div>
 </header>
 
