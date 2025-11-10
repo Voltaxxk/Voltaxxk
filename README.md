@@ -57,6 +57,9 @@ Hi! I'm Alfredo Garzón, a software engineer from the University of Guayaquil, E
    <img alt="Static Badge" src="https://img.shields.io/badge/TankStack%20Query-FC482D?style=for-the-badge&logo=reactquery&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/Zustand-502539?style=for-the-badge&logo=zustand&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Testing%20Library-%23E33332?style=for-the-badge&logo=testinglibrary&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+
 </span>
 
 
@@ -94,9 +97,15 @@ Hi! I'm Alfredo Garzón, a software engineer from the University of Guayaquil, E
    <img alt="Static Badge" src="https://img.shields.io/badge/TypeORM-%23FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white">
 </span>
 
 
+## Social
+
+<a target="_blank" href="https://www.linkedin.com/in/alfredo-garzon-velasquez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 <!--Header Name GIF or Animation-->
 <!-- <div align="center">
