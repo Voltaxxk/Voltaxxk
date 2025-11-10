@@ -107,6 +107,8 @@ Hi! I'm Alfredo Garzón, a software engineer from the University of Guayaquil, E
 
 <a target="_blank" href="https://www.linkedin.com/in/alfredo-garzon-velasquez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:alfredogarzon1903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://linktr.ee/Alfredo_Garzon"><img alt="Static Badge" src="https://img.shields.io/badge/Linktree-%2343E55E?style=for-the-badge&logo=linktree&logoColor=white"></a>
+
 
 <!--Header Name GIF or Animation-->
 <!-- <div align="center">
