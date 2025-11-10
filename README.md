@@ -3,6 +3,12 @@
   <img src="https://i.imgur.com/a0GX9Qz.png" height="200"/>
 </p>
 
+<!--Header Name GIF or Animation-->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
+</div>
+
+
 <!--
 **Voltaxxk/Voltaxxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
