@@ -62,11 +62,10 @@ Hi! I'm Alfredo Garzón, a software engineer from the University of Guayaquil, E
 <h4> Frameworks </h4>
 <span>
    <img alt="Static Badge" src="https://img.shields.io/badge/Next%20JS-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white">
+   <img alt="Static Badge" src="https://img.shields.io/badge/React%20Native-58C4DC?style=for-the-badge&logo=react&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/Nest%20JS-ea2851?style=for-the-badge&logo=nestjs&logoColor=white">
-
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
 </span>
 
 <!--Header Name GIF or Animation-->
