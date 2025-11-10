@@ -1,10 +1,10 @@
 <!--Header Image-->
 <header>
    <div align="center">
-      <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=header&textBg=false />
-      <div style="display:flex; flex-direction: column">
-         <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=700&lines=Heyyy!+I'm+Alfredo+Garzón;Welcome+to+my+profile!" alt="Title"/>
-         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=header&textBg=false" alt="imagen header gradient"/>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="animated gif hand" style="margin-bottom: 100px;"/>
+      <div style="display:flex;  flex-direction: column;">
+         <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=700&lines=Heyyy!+I'm+Alfredo+Garzón;Welcome+to+my+profile!" alt="Title name"/>
       </div>   
    </div>
 </header>
