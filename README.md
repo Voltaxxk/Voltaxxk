@@ -68,6 +68,12 @@ Hi! I'm Alfredo Garzón, a software engineer from the University of Guayaquil, E
    <img alt="Static Badge" src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </span>
 
+<h4> CMS </h4>
+<span>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white">
+</span>
+
+
 <!--Header Name GIF or Animation-->
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=700&lines=Heyyy!+I'm+Alfredo+Garzón;Welcome+to+my+profile!" alt="Title"></img>
